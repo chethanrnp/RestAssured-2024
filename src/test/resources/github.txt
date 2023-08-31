@@ -1,0 +1,26 @@
+usn chethanrnp
+pwd Chethan@17
+token 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
+githhubUrl https://github.com/chethanrnp/test.git
+
+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
+
+
+
+
+
+Qtoken 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
+
+
+
+useURL https://github.com/chethanrnp/chethan2.git
+
+FRAMEWORKURL https://github.com/chethanrnp/FRAMEWORK.git
+
+
+API_ToKEN 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
+
+https://github.com
+
+repo https://github.com/chethanrnp/RahualShettySelenium2023.git
+token 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
