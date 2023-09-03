@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-31T17:44:55 IST" name="Default suite" finished-at="2023-08-31T17:45:16 IST" duration-ms="21096">
+  <suite started-at="2023-09-03T09:21:28 IST" name="Default suite" finished-at="2023-09-03T09:22:10 IST" duration-ms="42406">
     <groups>
     </groups>
-    <test started-at="2023-08-31T17:44:55 IST" name="Default test" finished-at="2023-08-31T17:45:16 IST" duration-ms="21096">
-      <class name="oAuth2.OAuthPractise">
-        <test-method signature="oAuth()[pri:0, instance:oAuth2.OAuthPractise@732c2a62]" started-at="2023-08-31T17:44:55 IST" name="oAuth" finished-at="2023-08-31T17:45:16 IST" duration-ms="20947" status="PASS">
+    <test started-at="2023-09-03T09:21:28 IST" name="Default test" finished-at="2023-09-03T09:22:10 IST" duration-ms="42406">
+      <class name="end.end.testing.EcommerceApiTesting">
+        <test-method signature="ecommerceApiTesting()[pri:0, instance:end.end.testing.EcommerceApiTesting@732c2a62]" started-at="2023-09-03T09:21:28 IST" name="ecommerceApiTesting" finished-at="2023-09-03T09:22:10 IST" duration-ms="42073" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- oAuth -->
-      </class> <!-- oAuth2.OAuthPractise -->
+        </test-method> <!-- ecommerceApiTesting -->
+      </class> <!-- end.end.testing.EcommerceApiTesting -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
