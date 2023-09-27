@@ -23,7 +23,7 @@ public class ComplexJson {
 		String titleFirstCource = js.getString("courses[0].title");
 		System.out.println(titleFirstCource);
 
-		// Print all the Cources title and Respective title
+		// Print all the Cources title and Respective Price
 		for (int i = 0; i < count; i++) {
 			String courcesTitele = js.get("courses[" + i + "].title");
 			int courcesPrice = js.getInt("courses[" + i + "].price");
